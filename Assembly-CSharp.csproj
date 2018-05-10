@@ -46,18 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\LitJson\IJsonWrapper.cs" />
-     <Compile Include="Assets\LitJson\JsonData.cs" />
-     <Compile Include="Assets\LitJson\JsonException.cs" />
-     <Compile Include="Assets\LitJson\JsonMapper.cs" />
-     <Compile Include="Assets\LitJson\JsonReader.cs" />
-     <Compile Include="Assets\LitJson\JsonWriter.cs" />
-     <Compile Include="Assets\LitJson\Lexer.cs" />
-     <Compile Include="Assets\LitJson\ParserToken.cs" />
-     <Compile Include="Assets\Scripts\FileLoader.cs" />
+     <Compile Include="Assets\GameData\championNames.cs" />
+     <Compile Include="Assets\GameData\championsInfo.cs" />
      <Compile Include="Assets\Scripts\Main.cs" />
-     <Compile Include="Assets\json\championNames.Designer.cs" />
-     <Compile Include="Assets\json\championsInfo.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/Antaresmilo17/Documents/git/iBanYou/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>

@@ -1,11 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\json\Champions.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DataLoader.cs">
     <Files>
-      <File FileName="Assets\Scripts\FileLoader.cs" Line="17" Column="1" />
-      <File FileName="Assets\json\championsInfo.cs" Line="30" Column="2" />
-      <File FileName="Assets\Scripts\Main.cs" Line="19" Column="2" />
-      <File FileName="Assets\json\Champions.json" Line="8" Column="2" />
+      <File FileName="Assets\GameData\championsInfo.cs" Line="2" Column="34" />
+      <File FileName="Assets\Scripts\Main.cs" Line="30" Column="3" />
+      <File FileName="Assets\Scripts\DataLoader.cs" Line="29" Column="68" />
+      <File FileName="Assets\GameData\data.cs" Line="18" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
